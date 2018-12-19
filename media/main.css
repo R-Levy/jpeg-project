@@ -1,0 +1,46 @@
+body {
+    background: #8AEADC;
+    font-size: 16px;
+    font-family: 'Open Sans', sans-serif;
+	line-height: 1.5;
+}
+
+h1 {
+    color: #050131;
+    font-family: 'Bungee', cursive;
+    font-size: 7vw;
+    text-align:center
+}
+
+textarea {
+    height:100%;
+    width: 100%;
+}
+
+input[type=submit] {
+    background-color: #050131;
+    color: white;
+    font-size: 1em;
+    border-style: none;
+    border-radius: 5%;
+}
+
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img {
+    border: 1px solid #ddd; /* Gray border */
+    border-radius: 4px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+
+/* Add a hover effect (blue shadow) */
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+

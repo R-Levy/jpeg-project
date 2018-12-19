@@ -1,0 +1,1 @@
+pdflatex -halt-on-error "C:\xampp\htdocs\338\project lab\Tasks\6\report.tex" -interaction=nonstopmode
